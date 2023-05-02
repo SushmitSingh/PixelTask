@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PixelTask</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description_of_the_product_will_be_here">Description of the product will be here ...</string>
+    <string name="_360">360</string>
+    <string name="title">Title</string>
+    <string name="_1_299"><s>₹1,299</s></string>
+</resources>

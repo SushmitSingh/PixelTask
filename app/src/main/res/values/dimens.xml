@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="grid_spacing">2dp</dimen>
+    <dimen name="grid_spacing_half">1dp</dimen>
+    <dimen name="grid_spacing_double">4dp</dimen>
+
+    <dimen name="text_size_10">10sp</dimen>
+    <dimen name="text_size_12">12sp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+    <dimen name="text_size_16">16sp</dimen>
+
+    <dimen name="heading_size_16">16sp</dimen>
+    <dimen name="description_size_14">14sp</dimen>
+    <dimen name="price_size_16">16sp</dimen>
+    <dimen name="save_price_size_12">12sp</dimen>
+</resources>
