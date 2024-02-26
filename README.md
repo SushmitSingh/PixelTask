@@ -17,7 +17,7 @@ To use Pixel Task, simply clone the repository and open it in Android Studio. Bu
 
 ## Screenshots
 
-![Home Screen](/path/to/home_screen_screenshot.png)
+![Home Screen](https://github.com/SushmitSingh/PixelTask/blob/master/homeIMage.jpeg)
 
 ## Description
 
